@@ -1,7 +1,7 @@
 <?php
     class Database {
         //database parameters
-        private $host = 'localhost6969';
+        private $host = 'localhost:6969';
         private $db_name = 'php_blog';
         private $username = 'root';
         private $password = '1234';
